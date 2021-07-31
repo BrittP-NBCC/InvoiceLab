@@ -7,3 +7,9 @@
         font-size: 1rem;
     }    
 }
+
+@media print {
+    .address{
+        font-size: 1rem;
+    }  
+}
